@@ -183,6 +183,6 @@ Future extensions could include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ELMEHDI MORTAJA**
 
 - GitHub: (https://github.com/mediMor710)
